@@ -3096,3 +3096,33 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.24-13.03.47:959][532]AssetCheck: New page: Asset Save: ThirdPersonMap
 [2024.04.24-13.03.47:959][532]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
 [2024.04.24-13.03.52:283][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.24-13.07.10:753][157]BlueprintLog: New page: Compile ThirdPersonMap
+[2024.04.24-13.07.10:802][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.24-13.07.11:579][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-13.07.11:661][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.24-13.07.11:714][187]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.24-13.07.11:715][187]LogSavePackage: Moving '../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Saved/ThirdPersonMap923EC31141BBAB5E08195C9D47881E70.tmp' to '../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.24-13.07.11:718][187]LogFileHelpers: All files are already saved.
+[2024.04.24-13.07.11:720][187]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.088
+[2024.04.24-13.07.11:726][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 5.86 sec)
+[2024.04.24-13.07.11:728][187]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.04.24-13.07.11:728][187]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.24-13.18.39:770][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.24-13.18.39:825][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto4
+[2024.04.24-13.18.39:825][689]LogSavePackage: Moving '../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Saved/ThirdPersonMap_Auto46AB6A9EA460F3442626B0BA5CE944D1E.tmp' to '../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto4.umap'
+[2024.04.24-13.18.39:825][689]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.24-13.18.39:825][689]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto4 is in the /Temp path, will not scan.
+[2024.04.24-13.18.39:825][689]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto4 is in the /Temp path, will not scan.
+[2024.04.24-13.18.39:826][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.073
+[2024.04.24-13.18.39:826][689]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2024.04.24-13.20.31:371][905]BlueprintLog: New page: Compile ThirdPersonMap
+[2024.04.24-13.20.31:422][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.24-13.20.32:471][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-13.20.32:562][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.24-13.20.32:616][989]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.24-13.20.32:616][989]LogSavePackage: Moving '../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Saved/ThirdPersonMapCB0992AF4E41D2D0823F7D8FFA016F6E.tmp' to '../../../../../../Unreal projects/Audio/Full sound controller/Dynamic_mus_sys/Dyn_Mus_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.24-13.20.32:620][989]LogFileHelpers: All files are already saved.
+[2024.04.24-13.20.32:622][989]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.088
+[2024.04.24-13.20.32:627][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 6.02 sec)
+[2024.04.24-13.20.32:630][989]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.04.24-13.20.32:630][989]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
